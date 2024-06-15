@@ -1,1 +1,1 @@
-# Pagina de Receita
+# Playground da RocketSeat
